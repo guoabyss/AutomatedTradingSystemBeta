@@ -1,0 +1,5 @@
+apikey = "30fe390f-ac39-464c-a81d-a52cadd5cc30"
+secretkey = "32849050203B4F658031ECEEA8BB4116"
+IP = ""
+备注名 = "trade"
+权限 = "读取"
